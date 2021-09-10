@@ -1,2 +1,2 @@
-## Welcome to bytefold.
+## Welcome to bytefold
 
