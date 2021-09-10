@@ -1,6 +1,4 @@
-## Welcome to bytefold
-
-Data privacy and secure computation, in manifold ways:
+## Data privacy and secure computation, in manifold ways:
 * Privacy-preserving statistics and data analytics
 * Pryvacy-preserving data aggregation
 * Privacy-preserving user authentication
